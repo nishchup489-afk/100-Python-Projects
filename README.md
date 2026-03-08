@@ -1,6 +1,3 @@
-Love the mission idea. Turning classic exercises into **web tools** with **FastAPI + Jinja2 + Tailwind + Poetry**, deployed on **Vercel**, and keeping everything **structured and documented** will look great on GitHub. Below is a **detailed README** you can use (modeled after the style you showed), plus **5 extra project ideas** to bring the total to **100**.
-
----
 
 # 🚀 100 FastAPI Projects
 
@@ -25,6 +22,7 @@ This repository documents my mission to build **100 Python projects using FastAP
 
 Instead of traditional **command-line programs**, every project is implemented as a **web-based tool** using:
 
+* **CLI** for pure python no website and FastAPI
 * **FastAPI** for backend logic
 * **Jinja2 templates** for rendering pages
 * **Tailwind CSS** for clean UI
@@ -45,6 +43,7 @@ This project upgrades them into **fully functional web applications**.
 
 Every project includes:
 
+✅ CLI version of project in pure python in **sample.py**
 ✅ FastAPI backend
 ✅ Jinja2 template interface
 ✅ Tailwind CSS UI
@@ -90,6 +89,7 @@ Core technologies used across the repository:
 ### Environment
 
 * Poetry (dependency and virtual environment management)
+* you can use venv also , which is much easier
 
 ### Hosting
 
@@ -129,7 +129,7 @@ This structure keeps projects **clean, scalable, and maintainable**.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/100-fastapi-projects
+git clone https://github.com/yourusername/100-fastapi-projects](https://github.com/nishchup489-afk/100-Python-Projects
 ```
 
 ### Navigate to a project
