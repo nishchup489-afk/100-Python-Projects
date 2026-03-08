@@ -168,7 +168,7 @@ The 100 projects span multiple domains to ensure a wide range of programming exp
 
 | Project | Description |
 | :--- | :--- |
-| [**Find PI to the Nth Digit**](Numbers/FindPI) | Enter a number and have the program generate PI up to that many decimal places. |
+| [**Find PI to the Nth Digit**](numbers/n1_find_pi_to_nth_digit) | Enter a number and have the program generate PI up to that many decimal places. |
 | [**Find e to the Nth Digit**](Numbers/FindE) | Just like the previous problem, but with e instead of PI. |
 | [**Fibonacci Sequence**](Numbers/Fibonacci) | Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. |
 | [**Prime Factorization**](Numbers/PrimeFactorization) | Have the user enter a number and find all Prime Factors (if there are any) and display them. |
