@@ -8,7 +8,7 @@
 | Metric                 | Value                                         |
 | ---------------------- | --------------------------------------------- |
 | Total Projects         | **100**                                       |
-| Primary Stack          | **FastAPI + Jinja2 Templates + Tailwind CSS** |
+| Primary Stack          | **CLI in terminal** and **FastAPI + Jinja2 Templates + Tailwind CSS for web** |
 | Development Style      | Structured, incremental builds                |
 | Deployment             | **Vercel**                                    |
 | Environment Management | **Poetry**                                    |
